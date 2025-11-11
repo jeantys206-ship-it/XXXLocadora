@@ -1,9 +1,9 @@
-﻿using System;
+﻿using System; complet 
 using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+using System.IO;78
+using System.Linq;70
 using System.Security.Cryptography;
-using System.Text;
+using System.Text; a codificacaoutf8 
 using System.Threading.Tasks;
 
 namespace BusinessLogicalLayer.Security
